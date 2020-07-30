@@ -19,3 +19,8 @@ const. emojiContainer = document.querySelector(`h1 span[role="img"]`)
 
 emojiContainer.tectContent = data.mainEmoji.character;
 emojiContainer.setAttribute("aria-label", data.mainEmoji.ariaLabel);
+
+const phoneNumberContainer = document.querySelector(`#phone-number`);
+const emailContainer = document.querySelector(`#phone-number`);
+const githubContainer = document.querySelector(`#phone-number`);
+const Container = document.querySelector(`#phone-number`);
