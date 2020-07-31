@@ -7,7 +7,7 @@ const data = {
   phoneNumber: '325-232-3509',
   email: 'posullivan@rbi.com',
   githubHandle: 'psully777',
-  linkedInHandle: 'andyweissposullivan',
+  linkedInHandle: 'posullivan',
   workExperiences: [
     {
       emoji: "💻",
@@ -19,19 +19,19 @@ const data = {
         "CSS",
         "Javascript"
       ]
-    }
+    },
     {
       emoji: "👨",
       jobTitle: "Sr. Analyst - Professional Recruitment",
       institution: "RBI",
-      dates: "Ovtober 2019 - July 2020",
+      dates: "October 2019 - July 2020",
       details: [
         "Extensive interpersonal communication",
         "Prioritized recruitment efforts",
         "Helped develop a standardized process"
         "Managed the department budget"
       ]
-    }
+    },
     {
       emoji: "🛍",
       jobTitle: "Sr. Analyst - Global Procurement",
@@ -42,7 +42,7 @@ const data = {
         "Oversaw the QA testing for the new BK Flaming Heart broiler",
         "Created a PBI database"
       ]
-    }
+    },
     {
       emoji: "🍗",
       jobTitle: "Analyst - PLK Company Operations",
@@ -53,7 +53,7 @@ const data = {
         "Created a new pricing scheme for all PLK company restaurants",
         "Calculated bonus payouts for all restaurant employees and DMs"
       ]
-    }
+    },
 
   ],
   educationalExperiences: [
@@ -66,7 +66,7 @@ const data = {
         "I graduated with a degree in International Food and Resource Economics",
         "Coolest Dude: 2018"
       ]
-    }
+    },
     {
       emoji: "🏊‍♂️",
       school: "Union Pines High School",
@@ -75,7 +75,7 @@ const data = {
         "I graduated in 2010",
         "2nd in the state in the 100yd breast stroke"
       ]
-    }
+    },
   ]
 };
 
