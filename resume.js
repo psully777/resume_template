@@ -10,7 +10,7 @@ const data = {
   linkedInHandle: 'andyweissposullivan',
   workExperiences: [
     {
-      emoji: "💻"
+      emoji: "💻",
       jobTitle: "Sr. Analyst - Tech",
       institution: "RBI",
       dates: "July 2020 - Present",
@@ -21,7 +21,7 @@ const data = {
       ]
     }
     {
-      emoji: "👨"
+      emoji: "👨",
       jobTitle: "Sr. Analyst - Professional Recruitment",
       institution: "RBI",
       dates: "Ovtober 2019 - July 2020",
@@ -33,7 +33,7 @@ const data = {
       ]
     }
     {
-      emoji: "🛍"
+      emoji: "🛍",
       jobTitle: "Sr. Analyst - Global Procurement",
       institution: "RBI",
       dates: "May 2019 - October 2019",
@@ -44,7 +44,7 @@ const data = {
       ]
     }
     {
-      emoji: "🍗"
+      emoji: "🍗",
       jobTitle: "Analyst - PLK Company Operations",
       institution: "RBI",
       dates: "August 2018 - May 2019",
@@ -58,7 +58,7 @@ const data = {
   ],
   educationalExperiences: [
     {
-      emoji: "🐊"
+      emoji: "🐊",
       university: "University of Florida",
       school: "College of Agriculture",
       dates: "2014-2018",
@@ -68,7 +68,7 @@ const data = {
       ]
     }
     {
-      emoji: "🏊‍♂️"
+      emoji: "🏊‍♂️",
       school: "Union Pines High School",
       dates: "2010-2014",
       details: [
