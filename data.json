@@ -1,0 +1,73 @@
+{
+  "workExperiences": [
+    {
+      "emoji": "💻",
+      "ariaLabel": "laptop",
+      "jobTitle": "Sr. Analyst - Tech",
+      "institution": "RBI",
+      "dates": "July 2020 - Present",
+      "details": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "emoji": "👨",
+      "ariaLabel": "man",
+      "jobTitle": "Sr. Analyst - Professional Recruitment",
+      "institution": "RBI",
+      "dates": "October 2019 - July 2020",
+      "details": [
+        "Extensive interpersonal communication",
+        "Prioritized recruitment efforts",
+        "Helped develop a standardized process",
+        "Managed the department budget"
+      ]
+    },
+    {
+      "emoji": "🛍",
+      "ariaLabel": "shopping-bag",
+      "jobTitle": "Sr. Analyst - Global Procurement",
+      "institution": "RBI",
+      "dates": "May 2019 - October 2019",
+      "details": [
+        "Facilitated negotiations",
+        "Oversaw the QA testing for the new BK Flaming Heart broiler",
+        "Created a PBI database"
+      ]
+    },
+    {
+      "emoji": "🍗",
+      "ariaLabel": "chicken-wing",
+      "jobTitle": "Analyst - PLK Company Operations",
+      "institution": "RBI",
+      "dates": "August 2018 - May 2019",
+      "details": [
+        "Reported on weekly, monthly, and yearly restaurant performance",
+        "Created a new pricing scheme for all PLK company restaurants",
+        "Calculated bonus payouts for all restaurant employees and DMs"
+      ]
+    }
+  ],
+  "educationalExperience": [
+    {
+      "emoji": "🐊",
+      "ariaLabel": "gator",
+      "university": "University of Florida",
+      "school": "College of Agriculture",
+      "dates": "2014-2018",
+      "details": [
+        "I graduated with a degree in International Food and Resource Economics",
+        "Coolest Dude: 2018"
+      ]
+    },
+    {
+      "emoji": "🏊‍♂️",
+      "ariaLabel": "swimmer",
+      "university": "Union Pines High School",
+      "school": "",
+      "dates": "2010-2014",
+      "details": [
+        "I graduated in 2010",
+        "2nd in the state in the 100yd breast stroke"
+      ]
+    }
+  ]
+}
